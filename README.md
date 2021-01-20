@@ -1,1 +1,2 @@
 # MATLAB-Homework-3
+This project loads a file of the grades of 5 anonymous students. In part A it also displays them in 5 rows and 10 columns. Part B finds the average of each student in one statement. Part C goes on the assumption that first 7 grades are quizzes whose average is weighted at 25%, grades 8 and 9 are tests whose average is worth 40% and the last column is a final worth 35%, and finds the new average for each student. Question 2 evaluates a function from x=0 to x=4 at intervals of 0.01 and plots it.
